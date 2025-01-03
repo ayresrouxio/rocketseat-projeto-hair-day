@@ -21,6 +21,6 @@ O Hair Day permite os cabeleireiros gerenciarem os agendamentos para cortes.
 - Webpack;
 - Webpack Server;
 - Babel;
-- Pacote day.js;
-- Pacote json-server;
+- Pacote `day.js`;
+- Pacote `json-server`;
 - Integração com API;
